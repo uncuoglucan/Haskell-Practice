@@ -1,2 +1,0 @@
-# Haskell-Practice
-Haskell Practices

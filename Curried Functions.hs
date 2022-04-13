@@ -26,5 +26,3 @@ g x = x + 2 in f 2 + let a = 4 g x = (x + 1) in (f 3)
 mapQuestion xs = map f xs where f x = x * 2 + 3
 
 lambdaQuestion xs = foldr (\x y -> x + y) 1 xs
-
---2
